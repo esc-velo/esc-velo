@@ -21,7 +21,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esc-velo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=esc-velo&theme=github-dark-blue&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?username=esc-velo&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 </div>
 
